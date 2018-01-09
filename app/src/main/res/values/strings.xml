@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YouZi</string>
+    <string name="start_suspension_window">设置悬浮</string>
+    <string name="stop_suspension_window">关闭悬浮</string>
+    <string name="screen_shot">开始截屏</string>
+    <string name="screen_shot_stop">结束截屏</string>
+    <string name="is_capture_ing">程序已经在启动！</string>
+</resources>
